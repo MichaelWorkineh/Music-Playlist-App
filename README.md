@@ -173,10 +173,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Have any questions or feedback? Feel free to reach out!
 
-- **Your Name**: [Email](mailto:micwor96@gmail.com)
+- **Michael Workineh**: [📧](mailto:micwor96@gmail.com)
 
 ---
-
-**Enjoy creating your playlists! 🎶**
-```
 
